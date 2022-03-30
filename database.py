@@ -273,4 +273,4 @@ def main():
             addStudentToClass(12, 'A')
 
 
-removeStudentFromClass(12, 'a')
+main()
